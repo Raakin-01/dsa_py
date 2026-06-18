@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "basics of py/Read write.md",
+                "file": "basics of py/Dictionaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Read write"
+              "title": "Dictionaries"
             }
           }
         ]
@@ -185,12 +185,13 @@
   },
   "active": "1076ed1da493a25d",
   "lastOpenFiles": [
+    "basics of py/Lists.md",
+    "basics of py/Dictionaries.md",
+    "basics of py/Read write.md",
     "basics of py/Functions.md",
     "basics of py/Introduction.md",
     "basics of py/Loops.md",
-    "basics of py/Read write.md",
     "basics of py/Conditional statements.md",
-    "basics of py/Lists.md",
     "basics of py",
     "Welcome.md"
   ]
