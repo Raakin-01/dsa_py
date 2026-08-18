@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3dc10fd23bbbe352",
+        "id": "a2d492992bea3593",
         "type": "tabs",
         "children": [
           {
-            "id": "5c3277f9629c0804",
+            "id": "9bdc7260d6c0969f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "basics of py/Python - List Comprehension.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Python - List Comprehension"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -183,13 +181,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "5c3277f9629c0804",
+  "active": "9bdc7260d6c0969f",
   "lastOpenFiles": [
+    "code_explainantion/Pattern-1 Rectangular Star Pattern.md",
+    "Untitled.md",
+    "code_explainantion",
+    "basics of py/Pattern 1.md",
     "basics of py/Static Arrays, Dynamic Arrays, and Strings L2.md",
+    "basics of py/Python - List Comprehension.md",
     "basics of py/Read write.md",
     "basics of py/Conditional statements.md",
-    "basics of py/Python - List Comprehension.md",
-    "Untitled.md",
     "basics of py/Strings.md",
     "basics of py/Sets.md",
     "basics of py/Loops.md",
